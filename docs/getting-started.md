@@ -5,7 +5,7 @@
 #### Install the `gulp` command
 
 ```sh
-npm install --global gulp-cli
+npm install --global gulp gulp-cli
 ```
 
 #### Install `gulp` in your devDependencies
